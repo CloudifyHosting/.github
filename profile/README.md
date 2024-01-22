@@ -1,25 +1,13 @@
-__**CloudifyHosting**__
+__**NodeByteHosting**__
 
-CloudifyHosting providing Minecraft, Discord Bot, and other server hosting services.
+Welcome to the NodeByteHosting GitHub Page.
 
-Discord Hosting:
-
-``[•]`` Basic Bot Hosting £1.25
-``[•]`` Advanced Discord Bot Hosting £3.00
-``[•]`` Ultimate Bot Hosting £4.50
-
-Minecraft Hosting:
-
-``[•]`` Minecraft Server 1 GB RAM £1
-``[•]`` Minecraft Server 2 GB RAM £2
-``[•]`` Minecraft Server 3 GB RAM £3
-That £1 per GB
-
+This is where our projects sometimes public code is put.
 
 Check us out at:
 
-Website: https://cloudifyhosting.com/
-Twitter: https://twitter.com/CloudifyHosting
-Discord: https://discord.gg/9pCuBUGzV5
+Website: https://nodebyte.host/
+Twitter: https://twitter.com/NodeByteHosting
+Discord: Coming Soon.
 
-For any support please contact us at support@cloudifyhosting.com
+For any support please contact us at support@nodebyte.host, We don't provide any support within our discord server unless its to report a member in the server. 
