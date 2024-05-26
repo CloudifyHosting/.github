@@ -8,6 +8,6 @@ Check us out at:
 
 Website: https://nodebyte.host/
 Twitter: https://twitter.com/NodeByteHosting
-Discord: Coming Soon.
+Discord: [Join Here](https://discord.gg/2TgjJzrxm4)
 
 For any support please contact us at support@nodebyte.host, We don't provide any support within our discord server unless its to report a member in the server. 
