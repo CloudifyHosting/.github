@@ -8,7 +8,8 @@ This repository contains our public projects and code. We are committed to provi
 
 - **Website**: [NodeByteHosting](https://nodebyte.host)
 - **Twitter**: [Follow Us](https://twitter.com/NodeByteHosting)
-- **Discord**: [Join Here](https://discord.gg/NodeByteHosting)
+- **Discord**: [Join Here](https://discord.gg/2TgjJzrxm4)
+- **Docs:** [Docs Site](https://docs.nodebyte.host/)
 
 ## Support
 
